@@ -1,0 +1,15 @@
+meta2/
+meta3/
+meta4/
+meta5/
+meta6/
+meta7/
+
+# Raw SkyScript datasets
+SkyScript_train_unfiltered_5M.csv
+SkyScript_val_5K_filtered_by_CLIP_laion_RS.csv
+SkyScript_test_30K_filtered_by_CLIP_laion_RS.csv
+
+metadata_index.csv
+
+*output.md
